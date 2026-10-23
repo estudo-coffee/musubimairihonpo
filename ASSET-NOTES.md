@@ -1,7 +1,5 @@
-# Refresh notes — 2026-10-23
+# Restoration notes — 2026-10-23
 
-- Flower/landscape SVG illustration is original artwork written for this site. No third-party photography, music, paid assets, trackers, or font requests.
-- Existing prices and contact destinations retained. Removed the old simulated form success; visitors now explicitly use their email app, LINE, or phone to actually contact the business.
-- Removed unverified testimonial/ranking and same-day/trouble-free marketing claims; no new service guarantees introduced.
-- Competitor research: https://www.duskin-sagata.com/grave (clear price scope, photo reporting and service sequence); https://kitayo.tgn.co.jp/guidance/vB.pdf (separating base price and scope/additional costs). Research informed information architecture only; no competitor text or images copied. No comparative claims or competitor prices published.
-- Prior production version remains in Git history at 547aa26404953dbe699ff950ef53277e74809036.
+At the user's request, the original visual layout and all five embedded images were restored from commit 547aa26404953dbe699ff950ef53277e74809036. Existing asset provenance is unchanged; no new third-party assets or music were added in this restoration.
+
+The simulated form success was not restored. Existing LINE, email and phone links are provided instead, with explicit instructions that email is sent from the visitor's own email app. Original prices and CNAME remain unchanged. Invisible canonical/Open Graph metadata, robots.txt and sitemap.xml are retained. The previous redesign remains only in Git history.
